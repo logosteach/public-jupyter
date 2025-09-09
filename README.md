@@ -1,4 +1,4 @@
-# LogosTeach Jupyter Pubic Repo
+# LogosTeach Jupyter Public Repo
 
 ### MIT License with modifications
 
